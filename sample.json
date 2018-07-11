@@ -1,0 +1,29 @@
+{
+  "details":{
+    "name":"pavan",
+    "image":"download.jpg",
+    "phoneno":"9440141892",
+    "email:":"pavankumarparitala@gmail.com",
+    "address":"pvp college"
+  },
+"career":{
+  "info":"to pursue a challenging career and be a part of progressive organzation"
+},
+"education":[
+  {
+    "degree":"b.tech",
+    "institute":"pvp",
+    "data":["2015-19","80%"]
+  },
+  {
+    "degree":"inter",
+    "institute":"jrc college",
+    "data":["2014","92%"]
+  },
+  {
+    "degree":"ssc",
+    "institute":"chegu vidyalayam",
+    "data":["2014","98"]
+  }
+]
+}
