@@ -25,5 +25,32 @@
     "institute":"chegu vidyalayam",
     "data":["2014","98"]
   }
+],
+"skills":[
+  {
+    "title":"programming languages",
+    "info":["c","c++"]
+  },
+  {
+    "title":"Databases",
+    "info":["oracle","sql","mysql"]
+  },
+  {
+    "title":"os",
+    "info":["windows","mac","unix"]
+  },
+  {
+    "title":"webtechnologies",
+    "info":["html","css","xml","javascript"]
+  }
+],
+
+"achievements":[
+  {
+    "achievedata":"got 1st prize for ppt"
+  },
+  {
+    "achievedata":"got 1st prize for elocution"
+  }
 ]
 }
